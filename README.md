@@ -1,2 +1,1 @@
-# Papercuts
-A python based rock paper scissors game for your terminal.
+<p align="center"><img src="https://socialify.git.ci/devsansh/Papercuts/image?description=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Formal%20Invitation&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
