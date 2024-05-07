@@ -1,10 +1,14 @@
 import random as rm
+import pyfiglet
+from colorama import Fore
 import os
 
 """
     1. Add ASCII Art
     2. Add Scoreboard
 """
+title = pyfiglet.figlet_format("PaperCuts",font='larry3d')
+print(Fore.BLUE + title)
 player = None
 choices = ("rock","paper","scissors")
 computer = rm.choice(choices)
